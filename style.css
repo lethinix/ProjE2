@@ -103,7 +103,7 @@ nav ul li a:hover::after{
 	background-image: url(foggy.JPG);
 	background-size: cover;
 	background-position: center;
-	padding: 30px 1px;
+	padding: 30px 5px;
 	color: #355E3B;
 	
 }
